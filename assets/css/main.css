@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: rgba(15, 15, 15, 0.308);
+		background: rgba(15, 0, 15, 0.308);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: rgb(119, 119, 119);
+		color: rgb(10, 119, 119);
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -194,7 +194,7 @@ input, select, textarea {
 		}
 
 	blockquote {
-		border-left: solid 8px #e4e4e4;
+		border-left: solid 8px #e4f4e4;
 		font-style: italic;
 		margin: 0 0 2.25em 0;
 		padding: 0.5em 0 0.5em 2em;
@@ -1992,7 +1992,7 @@ input, select, textarea {
 
 	.box {
 		border-radius: 5px;
-		border: solid 2px #e4e4e4;
+		border: solid 2px #e4e4f4;
 		margin-bottom: 2.25em;
 		padding: 1.5em;
 	}
